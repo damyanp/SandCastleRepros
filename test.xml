@@ -14,5 +14,10 @@
             Goodbye, world.
             </summary>
         </member>
+        <member name="T:Test.NamespaceDoc">
+            <summary>
+            This is a namespace.
+            </summary>
+        </member>
     </members>
 </doc>

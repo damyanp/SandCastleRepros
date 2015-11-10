@@ -1,4 +1,3 @@
-
 namespace Test
 {
     /// <summary>
@@ -15,4 +14,11 @@ namespace Test
         }
     }
 
+    /// <summary>
+    /// This is a namespace.
+    /// </summary>
+    [System.Runtime.CompilerServices.CompilerGenerated]
+    class NamespaceDoc
+    {
+    }
 }
