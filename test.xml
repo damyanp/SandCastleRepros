@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>test</name>
+    </assembly>
+    <members>
+        <member name="T:Test.Test">
+            <summary>
+            Hello, world.
+            </summary>
+        </member>
+        <member name="M:Test.Test.#ctor">
+            <summary>
+            Goodbye, world.
+            </summary>
+        </member>
+    </members>
+</doc>
