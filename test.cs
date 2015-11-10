@@ -3,6 +3,13 @@ namespace Test
     /// <summary>
     /// Hello, world.
     /// </summary>
+    /// <remarks>
+    ///   <para>
+    ///     <img src="img1.svg"/>
+    ///     <img src="img2.svg"/>
+    ///     <img src="img3.svg"/>
+    ///   </para>
+    /// </remarks>
     public class Test
     {
         /// <summary>

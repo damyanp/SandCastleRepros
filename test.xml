@@ -8,6 +8,13 @@
             <summary>
             Hello, world.
             </summary>
+            <remarks>
+              <para>
+                <img src="../media/img1.svg"/>
+                <img src="../media/img2.svg"/>
+                <img src="../media/img3.svg"/>
+              </para>
+            </remarks>
         </member>
         <member name="M:Test.Test.#ctor">
             <summary>
